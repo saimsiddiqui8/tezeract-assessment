@@ -14,7 +14,7 @@ This project is a user management dashboard built using ReactJS, Firebase Firest
 - Ant Design
 - Firebase Firestore
 - Firebase Storage
-- Fomik, Yup (for Form Validations)
+- Formik, Yup (for Form Validations)
 - React Router DOM
 - React Toastify
 - React Bootstrap
