@@ -1,0 +1,131 @@
+/* radio btn styling  */
+:where(.css-dev-only-do-not-override-1adbn6x).ant-radio-wrapper .ant-radio-checked .ant-radio-inner {
+    border-color: #7a5cfa !important;
+    background-color: #7a5cfa !important;
+}
+
+#form {
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+.uploadProfileImg {
+    font-size: 14px;
+}
+
+.pngJpeg {
+    font-size: 11px;
+}
+
+.error-message {
+    font-size: 14px;
+}
+
+
+.i-f {
+    width: 30rem;
+    height: 7vh;
+    padding: 10px 12px;
+    border-radius: 5px;
+    outline: none;
+    border: grey 1px solid;
+}
+
+
+.btn {
+    outline: none;
+    width: 12%;
+    color: white;
+    padding: 10px 4px;
+    font-size: 0.8rem;
+    background-color: #7a5cfa;
+}
+
+@media screen and (max-width: 1432px) {
+    .i-f {
+        width: 90vh;
+    }
+}
+
+@media screen and (max-width: 1289px) {
+    .i-f {
+        width: 80vh;
+    }
+}
+
+@media screen and (max-width: 1198px) {
+    .i-f {
+        width: 70vh;
+    }
+}
+
+@media screen and (max-width: 1107px) {
+    .i-f {
+        width: 120vh;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .i-f {
+        width: 100vh;
+    }
+}
+
+@media screen and (max-width: 514px) {
+    .i-f {
+        width: 90vh;
+    }
+}
+
+@media screen and (max-width: 466px) {
+    .i-f {
+        width: 80vh;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .i-f {
+        width: 70vh;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    label {
+        font-size: 0.8rem;
+    }
+
+    /* .l-row{
+        margin-left: 1.5rem;
+    }
+     */
+    .form-check {
+        padding: 0;
+    }
+
+    .i-f {
+        width: 60vh;
+    }
+}
+
+@media screen and (max-width: 325px) {
+
+    .i-f {
+        width: 50vh;
+    }
+
+}
+
+/* @media screen and (max-width: 398px) {
+   
+    .form-check-label{
+        font-size: 0.8rem;
+    }
+
+}
+@media screen and (max-width: 355px) {
+   
+    .form-check-label{
+        font-size: 0.6rem;
+    }
+
+} */

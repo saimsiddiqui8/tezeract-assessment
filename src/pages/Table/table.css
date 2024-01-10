@@ -1,0 +1,11 @@
+#table {
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+/* container query  */
+@media screen and (max-width: 800px) {
+    .container {
+        width: 99% !important;
+    }
+}

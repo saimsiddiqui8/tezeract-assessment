@@ -1,0 +1,67 @@
+/* Add your styling for DataTable component here */
+
+/* toggle switch btn css */
+:where(.css-dev-only-do-not-override-1adbn6x).ant-switch.ant-switch-checked {
+    background: #7a5cfa !important;
+}
+
+/* pagination color  */
+:where(.css-dev-only-do-not-override-1adbn6x).ant-pagination .ant-pagination-item-active {
+    background-color: #7a5cfa !important;
+    color: #ffffff !important;
+    border-color: none !important;
+    border-radius: 3px !important;
+}
+
+table {
+    border-spacing: 0;
+    width: 100%;
+    color: #798899;
+}
+
+thead {
+    background-color: #fff;
+    text-transform: uppercase;
+    color: #566a7f;
+}
+
+th,
+td {
+    padding: 4px;
+    text-align: left;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+/* responsive table data */
+.responsive-container {
+    overflow-x: auto;
+}
+
+.table-container {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+/* container query  */
+@media screen and (max-width: 800px) {
+    .container {
+        width: 100% !important;
+    }
+}
