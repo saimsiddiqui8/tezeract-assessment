@@ -7,6 +7,7 @@ This project is a user management dashboard built using ReactJS, Firebase Firest
 ## Technologies Used
 
 - ReactJS
+- Ant Design
 - Firebase Firestore
 - Firebase Storage
 - React Router DOM
