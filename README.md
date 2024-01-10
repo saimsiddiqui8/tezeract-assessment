@@ -25,9 +25,8 @@ This project is a user management dashboard built using ReactJS, Firebase Firest
    - Loaders for feedback during data submission
 
 2. **User List Table:**
-   - Displaying users with columns for Full Name, Email, Profile Picture, Country, and State
+   - Displaying users with columns for Full Name, Email, Profile Picture, Interview Timings, Roles and Active status
    - Pagination to display a limited number of users per page
-   - Search/filter option to filter users by name or email
 
 3. **Design and Responsiveness:**
    - Alignment with the provided Figma design
